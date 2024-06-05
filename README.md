@@ -1,3 +1,3 @@
 # Git Assignment
 
-Test Git Assignment 1
+Test Git Assignment 2
