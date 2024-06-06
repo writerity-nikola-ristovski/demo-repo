@@ -6,4 +6,8 @@ Test Git Assignment 2
 
 Test Git Assignment 3
 
+## Local Development
+
+1. Open index.html in your browser.
+
 
